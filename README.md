@@ -24,8 +24,9 @@ Both manifests share one shape:
 
 - `latest_version` — current public release, three numeric fields, compared
   against the running build.
-- `download_url` — where the user's browser goes. **Keep this a release
-  *page*, not a bare installer link** — a page always opens visibly.
+- `download_url` — where the user's browser goes: the **direct installer
+  link** for that version (auto-download; the releases page is the manual
+  fallback).
 - `sha256` / `size` — optional integrity facts for the attached installer.
 
 Installers are attached to [Releases](https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases).
