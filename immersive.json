@@ -1,5 +1,5 @@
 {
-  "latest_version": "2.0.1",
-  "notes": "Current public release.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/latest"
+  "latest_version": "2.0.3",
+  "notes": "TEST build for the v2.0.2 updater check - not a real release.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/tag/gsi-v2.0.3-test"
 }
