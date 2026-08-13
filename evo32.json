@@ -1,7 +1,7 @@
 {
   "latest_version": "0.9.5",
   "notes": "Smoother update downloads and notices. Install over your current version \u2014 settings and results carry over.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/tag/v0.9.5",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.5/GSonicEvo32-0.9.5.msi",
   "sha256": "6f69ddc1821e9b6daf098e454eab21bbbcc9d0955a5ce056df56dd9871665180",
   "size": 69844198
 }
