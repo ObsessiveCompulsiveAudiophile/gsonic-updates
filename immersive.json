@@ -1,5 +1,7 @@
 {
-  "latest_version": "2.0.1",
-  "notes": "Current public release.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/latest"
+  "latest_version": "2.0.2",
+  "notes": "More accurate speaker distances and drift-tolerant measurements, plus in-app update notices. Install over your current version - settings carry over.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v2.0.2/GSonicImmersive-2.0.2-Setup.msi",
+  "sha256": "83d0f2c5018be49b01f25612ffba7a61ae19597021033e2e35b31c92383b1712",
+  "size": 71270400
 }
