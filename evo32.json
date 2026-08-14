@@ -1,7 +1,7 @@
 {
-  "latest_version": "0.9.7",
-  "notes": "Calibrations no longer stop at the filter safety check — the level moves into the device trim instead, sound unchanged. Install over your current version — settings and results carry over.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.7/GSonicEvo32-0.9.7.msi",
-  "sha256": "2a325e5fc6b54eae90d49efde2d63d3a59ff198dd7faa570216e69986339ed85",
-  "size": 69852390
+  "latest_version": "0.9.8",
+  "notes": "Adds surround-height (SHL/SHR) speaker support and clearer messages for unsupported layouts; calibrations no longer stop at the filter safety check. Install over your current version — settings and results carry over.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.8/GSonicEvo32-0.9.8.msi",
+  "sha256": "ebfddaf0428bb6f72d2b62172ce3f1de5de4e7e7e7169fb2e6405fbbf433146b",
+  "size": 69876966
 }
