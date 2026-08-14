@@ -1,7 +1,7 @@
 {
-  "latest_version": "0.9.6",
-  "notes": "Fixes a rare case where a calibration stopped at the final safety check. Install over your current version — settings and results carry over.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.6/GSonicEvo32-0.9.6.msi",
-  "sha256": "aa7a08417911e93bf3ec5a805e59d995bc265082b81035259c05d0e915c04001",
-  "size": 69848294
+  "latest_version": "0.9.7",
+  "notes": "Calibrations no longer stop at the filter safety check — the level moves into the device trim instead, sound unchanged. Install over your current version — settings and results carry over.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.7/GSonicEvo32-0.9.7.msi",
+  "sha256": "2a325e5fc6b54eae90d49efde2d63d3a59ff198dd7faa570216e69986339ed85",
+  "size": 69852390
 }
