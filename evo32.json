@@ -1,7 +1,7 @@
 {
   "latest_version": "0.9.5",
-  "notes": "Smoother updates and network scan improvements. Install over your current version \u2014 settings and results carry over.",
+  "notes": "Smoother updates and a more thorough network scan. Install over your current version \u2014 settings and results carry over.",
   "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.5/GSonicEvo32-0.9.5.msi",
-  "sha256": "8ce259c778ac6a9db1b717dafb1c3c51159086f36480a6415d24c0c5fdf89236",
-  "size": 69782758
+  "sha256": "fd7c515f205261bed8a0f9a7c5f6d949f5e6e1df80671c246115a5b77bcdf572",
+  "size": 69901542
 }
