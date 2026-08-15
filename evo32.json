@@ -1,7 +1,7 @@
 {
-  "latest_version": "0.9.10",
-  "notes": "Runs finish on low-memory PCs and with unusual microphone chains; speakers whose finest correction detail the receiver can't reproduce keep a broad-stroke correction instead of none; up-firing speakers with strong room reflections calibrate (enter the ceiling height when the log lacks it); a polarity-switch advisory for shared-sub receivers; refreshed Review graphs. Install over your current version — settings and results carry over.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.10/GSonicEvo32-0.9.10.msi",
-  "sha256": "b141f0e8148f9535997bdfa6099e55dbb9477b0d8d22a6c716bebdc5ac7ef809",
-  "size": 69942503
+  "latest_version": "0.9.11",
+  "notes": "Runs finish on low-memory PCs and with unusual microphone chains; speakers whose finest correction detail the receiver can't reproduce keep a broad-stroke correction instead of none; up-firing speakers with strong room reflections calibrate (enter the ceiling height when the log lacks it); a polarity-switch advisory for shared-sub receivers; seats close to the surround/back speakers no longer stop at the final distance check; refreshed Review graphs. Install over your current version — settings and results carry over.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.11/GSonicEvo32-0.9.11.msi",
+  "sha256": "037c1938340ed5ecbe09082edca281f6bc42bf1197ac823615c822b43a95c8ea",
+  "size": 69950695
 }
