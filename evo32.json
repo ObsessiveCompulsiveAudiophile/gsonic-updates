@@ -1,7 +1,7 @@
 {
-  "latest_version": "0.9.9",
-  "notes": "Every properly measured system now calibrates — difficult speakers play level-aligned instead of stopping the run; Fixed-family receivers can transfer; adds center-height and top-surround speakers; clearer messages. Install over your current version — settings and results carry over.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.9/GSonicEvo32-0.9.9.msi",
-  "sha256": "646158830a56fb3daa114d54179e917afe18fe2cabaa4f7cb271f43015989584",
-  "size": 69848294
+  "latest_version": "0.9.10",
+  "notes": "Runs finish on low-memory PCs and with unusual microphone chains; speakers whose finest correction detail the receiver can't reproduce keep a broad-stroke correction instead of none; up-firing speakers with strong room reflections calibrate (enter the ceiling height when the log lacks it); a polarity-switch advisory for shared-sub receivers; refreshed Review graphs. Install over your current version — settings and results carry over.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.10/GSonicEvo32-0.9.10.msi",
+  "sha256": "b141f0e8148f9535997bdfa6099e55dbb9477b0d8d22a6c716bebdc5ac7ef809",
+  "size": 69942503
 }
