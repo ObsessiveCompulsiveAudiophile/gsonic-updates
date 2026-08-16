@@ -1,7 +1,7 @@
 {
-  "latest_version": "0.9.13",
-  "notes": "Older receivers with the seat close to the back speakers now finish (the bass timing stays inside the receiver's delay window); a subwoofer set very low no longer stops the run (the balance is kept, the app tells you to raise its volume next time); slightly disagreeing main-position sweeps no longer refuse the folder; the treble fall angle goes to 2 dB/oct; clearer wording. Includes every fix since 0.9.9. Install over your current version — settings and results carry over.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.13/GSonicEvo32-0.9.13.msi",
-  "sha256": "bf1fd832e7ffb4ac1e3b4ec1261c3e55e9699de7fbe623ca19acdbe31e78d082",
+  "latest_version": "0.9.14",
+  "notes": "Crossover ranges are yours (Evo's measured limit is marked, you may drag below it); a quiet distortion sweep that didn't record no longer locks a crossover high; the front crossover is read from all positions (a room dip at the seat no longer fakes a sealed speaker); the designer shows corrections stop at 6 kHz and warns when your saved curve isn't used; update checks on every start. Includes every fix since 0.9.9. Install over your current version — settings and results carry over.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.14/GSonicEvo32-0.9.14.msi",
+  "sha256": "80e701c7d9381d99dd11ac015b3e52c627f48af8780138a077676a47eac92a8c",
   "size": 69962983
 }
