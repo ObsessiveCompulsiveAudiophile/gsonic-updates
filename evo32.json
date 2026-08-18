@@ -1,7 +1,7 @@
 {
-  "latest_version": "0.9.15",
-  "notes": "Fixes 'Build the L+M alternative' (0.9.13/0.9.14 stopped before writing the pair files). Also: crossover ranges are yours (Evo's measured limit is marked, you may drag below it); a quiet distortion sweep that didn't record no longer locks a crossover high; the front crossover is read from all positions; the designer shows corrections stop at 6 kHz and warns when your saved curve isn't used; update checks on every start. Install over your current version — settings and results carry over.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.15/GSonicEvo32-0.9.15.msi",
-  "sha256": "0ec049288d5886053bdee2d16c65723b48842804587a877ddf29beebba22c81e",
-  "size": 69962983
+  "latest_version": "0.9.16",
+  "notes": "0.9.16 — the bass target follows your subwoofers (deep bass restored on capable rigs); custom curves deliver their bass; saved-curve and settings-file fixes; single back surround supported. Your next run re-decides crossovers and deep bass.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.16/GSonicEvo32-0.9.16.msi",
+  "sha256": "d296179f50f08a0ab48195c4eb5f010448ddaab9203cf1d0bfec076bbe538c34",
+  "size": 69958887
 }
