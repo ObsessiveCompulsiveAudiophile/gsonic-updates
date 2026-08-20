@@ -1,7 +1,7 @@
 {
-  "latest_version": "0.9.17",
-  "notes": "0.9.17 — room modes no longer read as subwoofer roll-off (deep bass restored and the mode cut on such rooms); height speakers never below 80 Hz; a 2 Hz margin on the front crossover step; two run-ending failures fixed (center Flat variant; custom-curve sub timing); your search range honored harder; Review target line = the run's own target.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.17/GSonicEvo32-0.9.17.msi",
-  "sha256": "6e38c7d1ad45c2080362ed16acd06e3a5e9cfb1ad540df3136fb998cffdf8827",
-  "size": 70081767
+  "latest_version": "0.9.18",
+  "notes": "0.9.18 — the bass level guarded from above (no louder-not-better winners); truer deep-bass reach on multi-sub systems; low-limit reading disagreements resolved instead of dropped; range sliders reach every step; phase linearization choosier on treated rooms; calmer wording.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.18/GSonicEvo32-0.9.18.msi",
+  "sha256": "fd0305e12281ff13c89bd56c41fcfc33b34a84d099bf5b2f5cda91b042c61c41",
+  "size": 70085863
 }
