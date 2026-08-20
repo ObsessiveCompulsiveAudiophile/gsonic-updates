@@ -1,7 +1,7 @@
 {
-  "latest_version": "0.9.16",
-  "notes": "0.9.16 — the bass target follows your subwoofers (deep bass restored on capable rigs); custom curves deliver their bass; saved-curve and settings-file fixes; single back surround supported. Your next run re-decides crossovers and deep bass.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.16/GSonicEvo32-0.9.16.msi",
-  "sha256": "d296179f50f08a0ab48195c4eb5f010448ddaab9203cf1d0bfec076bbe538c34",
-  "size": 69958887
+  "latest_version": "0.9.17",
+  "notes": "0.9.17 — room modes no longer read as subwoofer roll-off (deep bass restored and the mode cut on such rooms); height speakers never below 80 Hz; a 2 Hz margin on the front crossover step; two run-ending failures fixed (center Flat variant; custom-curve sub timing); your search range honored harder; Review target line = the run's own target.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.17/GSonicEvo32-0.9.17.msi",
+  "sha256": "6e38c7d1ad45c2080362ed16acd06e3a5e9cfb1ad540df3136fb998cffdf8827",
+  "size": 70081767
 }
