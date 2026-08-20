@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.0.2",
-  "notes": "More accurate speaker distances and drift-tolerant measurements, plus in-app update notices. Install over your current version - settings carry over.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v2.0.2/GSonicImmersive-2.0.2-Setup.msi",
-  "sha256": "83d0f2c5018be49b01f25612ffba7a61ae19597021033e2e35b31c92383b1712",
-  "size": 71270400
+  "latest_version": "2.0.3",
+  "notes": "Receiver setup now locks on the first try, and the built-in audio check no longer freezes the app. Install over your current version - settings carry over.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v2.0.3/GSonicImmersive-2.0.3-Setup.msi",
+  "sha256": "0e6fa457c8bc84a8e21e40b8b0e10ef6143396e0e70f7248d80846d5560c7344",
+  "size": 71274496
 }
