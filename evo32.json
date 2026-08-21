@@ -1,7 +1,7 @@
 {
-  "latest_version": "0.9.18",
-  "notes": "0.9.18 — the bass level guarded from above (no louder-not-better winners); truer deep-bass reach on multi-sub systems; low-limit reading disagreements resolved instead of dropped; range sliders reach every step; phase linearization choosier on treated rooms; calmer wording.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.18/GSonicEvo32-0.9.18.msi",
-  "sha256": "fd0305e12281ff13c89bd56c41fcfc33b34a84d099bf5b2f5cda91b042c61c41",
-  "size": 70085863
+  "latest_version": "0.9.19",
+  "notes": "0.9.19 — a pair-coherence fix: when one speaker of a pair skips the phase correction, both now keep natural phase (0.9.18 could split a pair and collapse the stereo image on affected rooms). Run again if your fronts sounded out of phase.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.19/GSonicEvo32-0.9.19.msi",
+  "sha256": "d57eb9ae9e209e57d40a3b42f754d896d1669da08aec2e95bcdf7e2ef9106015",
+  "size": 69999847
 }
