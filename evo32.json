@@ -1,7 +1,7 @@
 {
-  "latest_version": "0.9.19",
-  "notes": "0.9.19 — a pair-coherence fix: when one speaker of a pair skips the phase correction, both now keep natural phase (0.9.18 could split a pair and collapse the stereo image on affected rooms). Run again if your fronts sounded out of phase.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.19/GSonicEvo32-0.9.19.msi",
-  "sha256": "d57eb9ae9e209e57d40a3b42f754d896d1669da08aec2e95bcdf7e2ef9106015",
-  "size": 69999847
+  "latest_version": "0.9.20",
+  "notes": "0.9.20 — precision improvements: exact subwoofer timing on custom-curve setups, identical curves now build identical slots, pair matching extended to every path, refined height-speaker windows — plus the new \"split the bass rise\" curve option. Re-run once if you use a custom curve.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.20/GSonicEvo32-0.9.20.msi",
+  "sha256": "9f684f3b7538311dfc6d00a41e47ecea0e8bb4df92285e0b279cade43fffe9a1",
+  "size": 70085863
 }
