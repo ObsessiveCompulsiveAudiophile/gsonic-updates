@@ -1,7 +1,7 @@
 {
-  "latest_version": "0.9.20",
-  "notes": "0.9.20 — precision improvements: exact subwoofer timing on custom-curve setups, identical curves now build identical slots, pair matching extended to every path, refined height-speaker windows — plus the new \"split the bass rise\" curve option. Re-run once if you use a custom curve.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.20/GSonicEvo32-0.9.20.msi",
-  "sha256": "9f684f3b7538311dfc6d00a41e47ecea0e8bb4df92285e0b279cade43fffe9a1",
-  "size": 70085863
+ "latest_version": "0.9.21",
+ "notes": "0.9.21 \u2014 three-subwoofer systems: the bass search is now exhaustive across every timing and polarity combination (a few minutes longer, spent judging real candidates). The curve designer's split bass rise now reaches 6 dB/oct above the knee. One- and two-sub results are identical to 0.9.20 unless you steepen your curve.",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.21/GSonicEvo32-0.9.21.msi",
+ "sha256": "cfc617d5233be7171bb27d925c6d91af58e6967cdb69eded07db62cdf604da99",
+ "size": 70147303
 }
