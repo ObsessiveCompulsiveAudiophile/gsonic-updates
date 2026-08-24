@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.0.3",
-  "notes": "Receiver setup now locks on the first try, and the built-in audio check no longer freezes the app. Install over your current version - settings carry over.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v2.0.3/GSonicImmersive-2.0.3-Setup.msi",
-  "sha256": "0e6fa457c8bc84a8e21e40b8b0e10ef6143396e0e70f7248d80846d5560c7344",
-  "size": 71274496
+  "latest_version": "2.0.4",
+  "notes": "Steadier Evo 32 measurements on some USB mics, the results-graph legend now shows on small laptop screens, and clearer guidance if a playback/capture timing issue comes up. Install over your current version - settings carry over.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v2.0.4/GSonicImmersive-2.0.4-Setup.msi",
+  "sha256": "d4f07ef99a58d8adb5a33cc30e9af71961a8db3f9ed299185fb73c8c69652e18",
+  "size": 71278592
 }
