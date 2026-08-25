@@ -1,7 +1,7 @@
 {
- "latest_version": "0.9.21",
- "notes": "0.9.21 \u2014 three-subwoofer systems: the bass search is now exhaustive across every timing and polarity combination (a few minutes longer, spent judging real candidates). The curve designer's split bass rise now reaches 6 dB/oct above the knee. One- and two-sub results are identical to 0.9.20 unless you steepen your curve.",
- "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.21/GSonicEvo32-0.9.21.msi",
- "sha256": "cfc617d5233be7171bb27d925c6d91af58e6967cdb69eded07db62cdf604da99",
- "size": 70147303
+ "latest_version": "0.9.22",
+ "notes": "0.9.22 \u2014 NEW: \"Your room, as measured\" on the Review screen \u2014 speaker layout, walls, ceiling height and strong reflections drawn from the measurement alone, plus the measured reason when a correction was held back. Older receivers with two or more subwoofers now complete reliably (the bass timing search works inside the receiver\u2019s own delay window). The Starting point option explains itself.",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.22/GSonicEvo32-0.9.22.msi",
+ "sha256": "041a9886a2ad63a1634de2f98014311cdf3e20fb96d6fe20103eb5bda312325d",
+ "size": 70208743
 }
