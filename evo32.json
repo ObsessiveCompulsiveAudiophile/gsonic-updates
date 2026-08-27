@@ -1,7 +1,7 @@
 {
- "latest_version": "0.9.23",
- "notes": "0.9.23 \u2014 calibrations noticeably faster (three-sub rooms ~half the time, identical results); four-subwoofer rooms get the exhaustive bass search (clearly better setups on a fresh run); steadier height imaging on steered pairs; hard rooms complete instead of stopping; the room view and the run log explain themselves; negative bass-rise angle + rise start to 60 Hz; paired charts share one scale.",
- "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.23/GSonicEvo32-0.9.23.msi",
- "sha256": "1be168ca7bf9c51ad82ded7430764c3ee13da7fb8af8921d270c90254352b8d6",
- "size": 70204647
+ "latest_version": "0.9.24",
+ "notes": "0.9.24 \u2014 the distortion drive test compares same-take sweeps only (a crossover set high by a take difference comes back down); a subwoofer set much too loud is said plainly at folder selection, and a run that cannot balance it stops early with the exact amount to turn it down.",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.24/GSonicEvo32-0.9.24.msi",
+ "sha256": "6e092a058d4390d2f556816de3b9c2ab483d5fd12929d43220a47d2c807f5a9a",
+ "size": 70221031
 }
