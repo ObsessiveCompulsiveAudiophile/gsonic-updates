@@ -1,7 +1,7 @@
 {
- "latest_version": "0.9.22",
- "notes": "0.9.22 \u2014 NEW: \"Your room, as measured\" on the Review screen \u2014 speaker layout, walls, ceiling height and strong reflections drawn from the measurement alone, plus the measured reason when a correction was held back. Older receivers with two or more subwoofers now complete reliably (the bass timing search works inside the receiver\u2019s own delay window). The Starting point option explains itself.",
- "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.22/GSonicEvo32-0.9.22.msi",
- "sha256": "041a9886a2ad63a1634de2f98014311cdf3e20fb96d6fe20103eb5bda312325d",
- "size": 70208743
+ "latest_version": "0.9.23",
+ "notes": "0.9.23 \u2014 calibrations noticeably faster (three-sub rooms ~half the time, identical results); four-subwoofer rooms get the exhaustive bass search (clearly better setups on a fresh run); steadier height imaging on steered pairs; hard rooms complete instead of stopping; the room view and the run log explain themselves; negative bass-rise angle + rise start to 60 Hz; paired charts share one scale.",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.23/GSonicEvo32-0.9.23.msi",
+ "sha256": "1be168ca7bf9c51ad82ded7430764c3ee13da7fb8af8921d270c90254352b8d6",
+ "size": 70204647
 }
