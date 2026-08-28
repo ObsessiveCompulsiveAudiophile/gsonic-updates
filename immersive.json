@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.0.4",
-  "notes": "Steadier Evo 32 measurements on some USB mics, the results-graph legend now shows on small laptop screens, and clearer guidance if a playback/capture timing issue comes up. Install over your current version - settings carry over.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v2.0.4/GSonicImmersive-2.0.4-Setup.msi",
-  "sha256": "d4f07ef99a58d8adb5a33cc30e9af71961a8db3f9ed299185fb73c8c69652e18",
-  "size": 71278592
+  "latest_version": "2.0.5",
+  "notes": "A reliability update: a fix for older receivers that pause for a manual subwoofer switch, every sweep confirmed saved, and a gentle end-of-run check. It does not change how measurements are taken or saved - results you are happy with need no redo. Install over your current version, settings carry over.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v2.0.5/GSonicImmersive-2.0.5-Setup.msi",
+  "sha256": "7ebe7d1eac456bfba04c027643db5884ff4956b7fa882db9976ac43905907028",
+  "size": 71282688
 }
