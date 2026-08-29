@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.0.5",
-  "notes": "A reliability update: a fix for older receivers that pause for a manual subwoofer switch, every sweep confirmed saved, and a gentle end-of-run check. It does not change how measurements are taken or saved - results you are happy with need no redo. Install over your current version, settings carry over.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v2.0.5/GSonicImmersive-2.0.5-Setup.msi",
-  "sha256": "7ebe7d1eac456bfba04c027643db5884ff4956b7fa882db9976ac43905907028",
-  "size": 71282688
+  "latest_version": "2.0.6",
+  "notes": "A measurement-accuracy update: sweeps whose timing does not agree with the rest of your session are now caught and repeated instead of quietly ending up in your results, lost audio during a sweep is detected, and room dips are no longer mistaken for damaged recordings. If you were not satisfied with your last calibration, it is worth measuring again with this version. Install over your current version, settings carry over.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v2.0.6/GSonicImmersive-2.0.6-Setup.msi",
+  "sha256": "3b8aaeea4c377526f360a9b594643bcb84479ea0dc3c3b05e0680ac8c33151ad",
+  "size": 71286784
 }
