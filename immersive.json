@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.0.6",
-  "notes": "A measurement-accuracy update: sweeps whose timing does not agree with the rest of your session are now caught and repeated instead of quietly ending up in your results, lost audio during a sweep is detected, and room dips are no longer mistaken for damaged recordings. If you were not satisfied with your last calibration, it is worth measuring again with this version. Install over your current version, settings carry over.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v2.0.6/GSonicImmersive-2.0.6-Setup.msi",
-  "sha256": "3b8aaeea4c377526f360a9b594643bcb84479ea0dc3c3b05e0680ac8c33151ad",
-  "size": 71286784
+  "latest_version": "2.0.7",
+  "notes": "Floor, surround and subwoofer sweeps are now sent to the receiver as fixed channels rather than through its immersive processing. On some earlier receivers this removes a fault where a surround sweep was also reproduced by the front speaker on the same side. If your measurements have been working, nothing has changed for you and there is no need to measure again. Install over your current version, settings carry over.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v2.0.7/GSonicImmersive-2.0.7-Setup.msi",
+  "sha256": "4d340b39e0be385ddc8f69542249f39623e622b67c53affe726835fadfe59086",
+  "size": 71290880
 }
