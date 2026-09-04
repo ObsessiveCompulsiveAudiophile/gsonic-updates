@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.0.7",
-  "notes": "Floor, surround and subwoofer sweeps are now sent to the receiver as fixed channels rather than through its immersive processing. On some earlier receivers this removes a fault where a surround sweep was also reproduced by the front speaker on the same side. If your measurements have been working, nothing has changed for you and there is no need to measure again. Install over your current version, settings carry over.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v2.0.7/GSonicImmersive-2.0.7-Setup.msi",
-  "sha256": "4d340b39e0be385ddc8f69542249f39623e622b67c53affe726835fadfe59086",
-  "size": 71290880
+  "latest_version": "2.0.8",
+  "notes": "Adds a choice of which calibration preset AVR Reset works on, removes the sweep-delivery setting (GSonic now works it out from the speakers you selected), and catches a disturbed sweep or a wrong speaker distance while you are still at the microphone rather than at the end of the session. Also fixes sweeps that played silently on some receivers, and repeat requests that were never justified. Your existing measurements remain valid - nothing about how a sweep is measured or how a result is calculated has changed. Install over your current version, settings carry over.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v2.0.8/GSonicImmersive-2.0.8-Setup.msi",
+  "sha256": "7d8d19ce5f8dbc455d63f75d3cf6be4b20737d65541196e2dca53c597460041b",
+  "size": 71307264
 }
