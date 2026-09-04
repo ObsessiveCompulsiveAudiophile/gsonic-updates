@@ -1,7 +1,7 @@
 {
- "latest_version": "0.9.25",
- "notes": "0.9.25 \u2014 two bass restorations: rooms measured with the subwoofer volume set high now receive their full bass level (re-run if yours said \"limited by the subwoofers' measured distortion margin\"), and multi-sub systems keep the reach of their deepest subwoofer (deep bass returns on systems whose subs reach differently deep); plus: a different measurement folder always starts fresh, and Documents-folder redirects are handled.",
- "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.25/GSonicEvo32-0.9.25.msi",
- "sha256": "8817c83b297a9f40ff1d5dfcd5342cc974ede9f17fab16238da81b20eca80a23",
- "size": 70249703
+ "latest_version": "0.9.26",
+ "notes": "0.9.26 \u2014 a bass-shaker output on any receiver with a free subwoofer output (timing, level and a low-pass from 10 Hz, sent by the app; turn the extra output on in the receiver's speaker setup first); a steadier bass-setup choice on multi-sub systems (near-ties judged on bass smoothness, noisy sweeps no longer steer the bass); more bass headroom where the subwoofer's own distortion allows it; activation is more forgiving of momentary server hiccups. Happy with your calibration? No rush \u2014 nothing changes until you run again.",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.26/GSonicEvo32-0.9.26.msi",
+ "sha256": "ab697c405a53cfe421bdd52435fd4801bd569af6133b80ac3ffd95c458aa936c",
+ "size": 70274279
 }
