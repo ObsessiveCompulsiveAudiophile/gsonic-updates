@@ -1,7 +1,7 @@
 {
- "latest_version": "0.9.26",
- "notes": "0.9.26 \u2014 a bass-shaker output on any receiver with a free subwoofer output (timing, level and a low-pass from 10 Hz, sent by the app; turn the extra output on in the receiver's speaker setup first); a steadier bass-setup choice on multi-sub systems (near-ties judged on bass smoothness, noisy sweeps no longer steer the bass); more bass headroom where the subwoofer's own distortion allows it; activation is more forgiving of momentary server hiccups. Happy with your calibration? No rush \u2014 nothing changes until you run again.",
- "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.26/GSonicEvo32-0.9.26.msi",
- "sha256": "ab697c405a53cfe421bdd52435fd4801bd569af6133b80ac3ffd95c458aa936c",
- "size": 70274279
+ "latest_version": "0.9.27",
+ "notes": "0.9.27 \u2014 the Transfer screen always offers the run you just finished (a \"Sending run \u2026\" line names it; an older pair is flagged with a one-click switch) \u2014 if you re-ran with a new curve and heard no change, update and send again; the bass-shaker panel names its button and shows the timing range your receiver actually allows. Happy with your calibration? No rush.",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.27/GSonicEvo32-0.9.27.msi",
+ "sha256": "1499816692cc397cd93a3f47fce325919885b676d11325102aa546d34b1c1f3b",
+ "size": 70339815
 }
