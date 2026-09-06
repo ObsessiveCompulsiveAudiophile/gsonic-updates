@@ -1,7 +1,7 @@
 {
- "latest_version": "0.9.28",
- "notes": "0.9.28 \u2014 a saved curve on the Reference slot now delivers its extra deep bass exactly once (the bass setup is judged on the room's own curve, your curve applied on top, as the Flat slot always did) \u2014 if your own curve with a strong bass rise sits on Reference, re-run and send again. Auto-curve calibrations are identical; no rush.",
- "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.28/GSonicEvo32-0.9.28.msi",
- "sha256": "966843fe5d3f278bbab65ce0b6f1804d0db6cc0b40938f9adc3f21ba2281a64a",
+ "latest_version": "0.9.29",
+ "notes": "0.9.29 \u2014 the \"Reference plays\" / \"Flat plays\" choices are applied at app start and All-auto waits for them (a start right after launch could run on the default choices and keep them). If your saved curve sits on a slot, check the choices once after installing and re-run if a recent run's first log line names the wrong curve. Existing calibrations unchanged; no rush.",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.29/GSonicEvo32-0.9.29.msi",
+ "sha256": "93124230b1a2c62df7e5a295ec8214b5e2c2d94440c878357de3340c97558cde",
  "size": 70278375
 }
