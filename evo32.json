@@ -1,7 +1,7 @@
 {
- "latest_version": "0.9.29",
- "notes": "0.9.29 \u2014 the \"Reference plays\" / \"Flat plays\" choices are applied at app start and All-auto waits for them (a start right after launch could run on the default choices and keep them). If your saved curve sits on a slot, check the choices once after installing and re-run if a recent run's first log line names the wrong curve. Existing calibrations unchanged; no rush.",
- "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.29/GSonicEvo32-0.9.29.msi",
- "sha256": "93124230b1a2c62df7e5a295ec8214b5e2c2d94440c878357de3340c97558cde",
- "size": 70278375
+ "latest_version": "0.9.30",
+ "notes": "0.9.30 \u2014 Front speakers keep their own level where the subwoofer does not play; the bass level lands on the target line in every room (a curve's bass rise is the lever for more); the Review bass panel shows the target line; a finish chime; the log names versions and delivered rows.",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.30/GSonicEvo32-0.9.30.msi",
+ "sha256": "62830ec0675f4fcc1c078ff5cb8a74129c02049988230651a5b66c368767ad4e",
+ "size": 71249127
 }
