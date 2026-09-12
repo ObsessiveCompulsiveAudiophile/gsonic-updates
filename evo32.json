@@ -1,7 +1,7 @@
 {
- "latest_version": "0.9.31",
- "notes": "0.9.31 \u2014 The transfer refuses a pair whose crossovers or generation the connected receiver cannot play (connect the receiver, run again); a saved curve's extra deep bass is delivered up to the system's measured headroom instead of a fixed 6 dB, and the results say what the curve asked for; the finish chime plays after any click, has a test link and flashes the taskbar.",
- "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.31/GSonicEvo32-0.9.31.msi",
- "sha256": "151bf7c2fc8ce1e560d282bcbb4cb5ac0fb26475cf23d895a367c1a0c09f2c05",
- "size": 71265511
+ "latest_version": "0.9.32",
+ "notes": "0.9.32 \u2014 Only two-subwoofer setups on receivers with one shared subwoofer processing path see a change: the Flat slot keeps the Reference subwoofer timing there and the transfer that was refused now goes through. For everyone else this version calculates and transfers exactly what 0.9.31 does; the rest is informational (a note for measurements taken without the receiver link, extra detail in the log).",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.32/GSonicEvo32-0.9.32.msi",
+ "sha256": "5aa0e89a86a2e238476cd9d4c3958616567b83a37b32c909a54548af9dbeeb64",
+ "size": 71277799
 }
