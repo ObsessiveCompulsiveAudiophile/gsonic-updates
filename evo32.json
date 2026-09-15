@@ -1,7 +1,7 @@
 {
- "latest_version": "0.9.32",
- "notes": "0.9.32 \u2014 Only two-subwoofer setups on receivers with one shared subwoofer processing path see a change: the Flat slot keeps the Reference subwoofer timing there and the transfer that was refused now goes through. For everyone else this version calculates and transfers exactly what 0.9.31 does; the rest is informational (a note for measurements taken without the receiver link, extra detail in the log).",
- "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.32/GSonicEvo32-0.9.32.msi",
- "sha256": "5aa0e89a86a2e238476cd9d4c3958616567b83a37b32c909a54548af9dbeeb64",
- "size": 71277799
+ "latest_version": "0.9.33",
+ "notes": "0.9.33 \u2014 two groups see a change in results: setups whose subwoofer level already sits at the receiver's +12 dB limit (a bass lift is now delivered inside the subwoofer filter's own headroom) and two-subwoofer setups (the bass search now sweeps every timing and polarity combination, so a good setup is never missed \u2014 run again if you have two subs). For everyone else this version calculates and transfers what 0.9.32 does, to the byte. Transfers that stall are re-sent once by the app, a failed attempt is recorded, and the results note names the subwoofer that limits a bass level.",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.33/GSonicEvo32-0.9.33.msi",
+ "sha256": "633760ca15422108b5fcc4f8e5f989d4ee952eff2485b6cead004e80d171741a",
+ "size": 71306471
 }
