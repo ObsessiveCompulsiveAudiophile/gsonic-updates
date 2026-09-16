@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.0.8",
-  "notes": "Adds a choice of which calibration preset AVR Reset works on, removes the sweep-delivery setting (GSonic now works it out from the speakers you selected), and catches a disturbed sweep or a wrong speaker distance while you are still at the microphone rather than at the end of the session. Also fixes sweeps that played silently on some receivers, and repeat requests that were never justified. Your existing measurements remain valid - nothing about how a sweep is measured or how a result is calculated has changed. Install over your current version, settings carry over.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v2.0.8/GSonicImmersive-2.0.8-Setup.msi",
-  "sha256": "7d8d19ce5f8dbc455d63f75d3cf6be4b20737d65541196e2dca53c597460041b",
-  "size": 71307264
+  "latest_version": "2.0.9",
+  "notes": "Catches a sweep that was timed against the wrong sound before it is saved, and restarts the lossless stream where some receivers mis-timed the channel measured after a quieter seat sweep. Automatic switching with three or four subwoofers is faster, a PC whose clock runs unusually fast or slow no longer asks for a repeat on every speaker, and two messages that blamed the wrong thing have been corrected. GSonic also lists any PC settings worth correcting before you measure. Your existing measurements remain valid - nothing about how a sweep is measured or how a result is calculated has changed. Install over your current version, settings carry over.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v2.0.9/GSonicImmersive-2.0.9-Setup.msi",
+  "sha256": "4598cb490fdbb3f17a2e4bbf9674a2cc488b918d3320235dc05d547c5adc9073",
+  "size": 71327744
 }
