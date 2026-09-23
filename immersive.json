@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.0.9",
-  "notes": "Catches a sweep that was timed against the wrong sound before it is saved, and restarts the lossless stream where some receivers mis-timed the channel measured after a quieter seat sweep. Automatic switching with three or four subwoofers is faster, a PC whose clock runs unusually fast or slow no longer asks for a repeat on every speaker, and two messages that blamed the wrong thing have been corrected. GSonic also lists any PC settings worth correcting before you measure. Your existing measurements remain valid - nothing about how a sweep is measured or how a result is calculated has changed. Install over your current version, settings carry over.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v2.0.9/GSonicImmersive-2.0.9-Setup.msi",
-  "sha256": "4598cb490fdbb3f17a2e4bbf9674a2cc488b918d3320235dc05d547c5adc9073",
-  "size": 71327744
+  "latest_version": "2.0.10",
+  "notes": "Front Left is now measured over the same direct stream as the other floor speakers, and a gap in the PC's playback is now noticed on every speaker. AVR Reset switches a sleeping receiver on before it needs its signal and waits until your receiver's presets have been read, Refresh Devices keeps the device you picked, and a device that stood in for yours is no longer saved as your choice. Install over your current version, settings carry over.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v2.0.10/GSonicImmersive-2.0.10-Setup.msi",
+  "sha256": "967e163f9362b8b951b1b4bc7c24b180c9a3f4918c57a169f67ca418c0674d11",
+  "size": 71335936
 }
