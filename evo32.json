@@ -1,7 +1,7 @@
 {
- "latest_version": "0.9.33",
- "notes": "0.9.33 \u2014 two groups see a change in results: setups whose subwoofer level already sits at the receiver's +12 dB limit (a bass lift is now delivered inside the subwoofer filter's own headroom) and two-subwoofer setups (the bass search now sweeps every timing and polarity combination, so a good setup is never missed \u2014 run again if you have two subs). For everyone else this version calculates and transfers what 0.9.32 does, to the byte. Transfers that stall are re-sent once by the app, a failed attempt is recorded, and the results note names the subwoofer that limits a bass level.",
- "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.33/GSonicEvo32-0.9.33.msi",
- "sha256": "633760ca15422108b5fcc4f8e5f989d4ee952eff2485b6cead004e80d171741a",
- "size": 71306471
+ "latest_version": "0.9.34",
+ "notes": "Three groups see a change: setups whose front speakers' bass plays in opposite polarity to their treble (about half of all setups \u2014 Review's Bass integration draws a dip around the front crossover on the current result): the subwoofers are now set up for those speakers as the phase correction delivers them, run the same measurement again; two-subwoofer setups on previous-generation receivers \u2014 calibrations that 0.9.33 stopped with \"shared subwoofer path: one filter for every subwoofer\" or \"the chosen bass timing spreads the subwoofers wider than this receiver's delay window can carry\" now complete (run the same folder again, no new measurement needed) \u2014 and setups whose results list a speaker as \"un-steered (steering didn't prove itself)\": some of those speakers are now phase-steered at the same crossover. For everyone else 0.9.34 calculates and transfers what 0.9.33 does, to the byte. The Review screen now draws the region around each crossover the way the receiver combines speaker and subwoofers (a drawing change only).",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.34/GSonicEvo32-0.9.34.msi",
+ "sha256": "efccde4179df9770658ed86e2fe0a0147fa6cf9c538b8a0dc2a842fd535c4876",
+ "size": 71355623
 }
