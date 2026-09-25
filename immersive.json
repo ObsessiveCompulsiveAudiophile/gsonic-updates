@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.0.10",
-  "notes": "Front Left is now measured over the same direct stream as the other floor speakers, and a gap in the PC's playback is now noticed on every speaker. AVR Reset switches a sleeping receiver on before it needs its signal and waits until your receiver's presets have been read, Refresh Devices keeps the device you picked, and a device that stood in for yours is no longer saved as your choice. Install over your current version, settings carry over.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v2.0.10/GSonicImmersive-2.0.10-Setup.msi",
-  "sha256": "967e163f9362b8b951b1b4bc7c24b180c9a3f4918c57a169f67ca418c0674d11",
-  "size": 71335936
+  "latest_version": "2.0.11",
+  "notes": "No need to measure again: this release catches setup problems on the user's side. GSonic now waits for a microphone that pauses when a sweep starts, and warns when every speaker arrives at the same moment (a receiver still applying an earlier calibration, or sweeps coming from the wrong speakers). Evo 32 no longer reports false subwoofer timing warnings. Install over your current version, settings carry over.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v2.0.11/GSonicImmersive-2.0.11-Setup.msi",
+  "sha256": "f49641081a16a7aded93ebdf1026188da5d26eb94275291aa2b49331f7c008a2",
+  "size": 71340032
 }
