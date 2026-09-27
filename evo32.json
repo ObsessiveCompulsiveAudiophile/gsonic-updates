@@ -1,7 +1,7 @@
 {
- "latest_version": "0.9.34",
- "notes": "Three groups see a change: setups whose front speakers' bass plays in opposite polarity to their treble (about half of all setups \u2014 Review's Bass integration draws a dip around the front crossover on the current result): the subwoofers are now set up for those speakers as the phase correction delivers them, run the same measurement again; two-subwoofer setups on previous-generation receivers \u2014 calibrations that 0.9.33 stopped with \"shared subwoofer path: one filter for every subwoofer\" or \"the chosen bass timing spreads the subwoofers wider than this receiver's delay window can carry\" now complete (run the same folder again, no new measurement needed) \u2014 and setups whose results list a speaker as \"un-steered (steering didn't prove itself)\": some of those speakers are now phase-steered at the same crossover. For everyone else 0.9.34 calculates and transfers what 0.9.33 does, to the byte. The Review screen now draws the region around each crossover the way the receiver combines speaker and subwoofers (a drawing change only).",
- "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.34/GSonicEvo32-0.9.34.msi",
- "sha256": "efccde4179df9770658ed86e2fe0a0147fa6cf9c538b8a0dc2a842fd535c4876",
- "size": 71355623
+ "latest_version": "0.9.35",
+ "notes": "One group sees a change: single-subwoofer setups \u2014 the bass search now level-tunes every candidate setup (some single-sub results had a dip of several dB around 45-60 Hz at the seat), run the same measurement again. Everyone with two or more subwoofers gets what 0.9.34 calculates, to the byte. A measurement with a speaker far off the others in level is now explained on the Validate screen instead of stopping the calculation later with a technical message.",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.35/GSonicEvo32-0.9.35.msi",
+ "sha256": "14c8082e96d95b4d2796e12f94f18c30cd9bc24c66785c03bb9daf8b92ffced5",
+ "size": 71339239
 }
