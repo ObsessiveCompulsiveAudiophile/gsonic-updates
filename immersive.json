@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.0.11",
-  "notes": "No need to measure again: this release catches setup problems on the user's side. GSonic now waits for a microphone that pauses when a sweep starts, and warns when every speaker arrives at the same moment (a receiver still applying an earlier calibration, or sweeps coming from the wrong speakers). Evo 32 no longer reports false subwoofer timing warnings. Install over your current version, settings carry over.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v2.0.11/GSonicImmersive-2.0.11-Setup.msi",
-  "sha256": "f49641081a16a7aded93ebdf1026188da5d26eb94275291aa2b49331f7c008a2",
-  "size": 71340032
+  "latest_version": "3.0.0",
+  "notes": "3.0.0: more accurate measurements - measure again after updating. Free update for all owners.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v3.0.0/GSonicImmersive-3.0.0-Setup.msi",
+  "sha256": "50c96080108247a4f34cc080971d78c38792c126dcbbc0dd860be6bdc5cf2d03",
+  "size": 71798784
 }
