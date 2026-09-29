@@ -1,7 +1,7 @@
 {
- "latest_version": "0.9.35",
- "notes": "One group sees a change: single-subwoofer setups \u2014 the bass search now level-tunes every candidate setup (some single-sub results had a dip of several dB around 45-60 Hz at the seat), run the same measurement again. Everyone with two or more subwoofers gets what 0.9.34 calculates, to the byte. A measurement with a speaker far off the others in level is now explained on the Validate screen instead of stopping the calculation later with a technical message.",
- "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v0.9.35/GSonicEvo32-0.9.35.msi",
- "sha256": "14c8082e96d95b4d2796e12f94f18c30cd9bc24c66785c03bb9daf8b92ffced5",
- "size": 71339239
+ "latest_version": "2.0.0",
+ "notes": "2.0.0 \u2014 coherence decides the crossover: the front crossover step is now chosen by how coherently the front speakers and the subwoofers add across the handover when the summed bass scores the same at two steps (on the test fleet four of 21 setups move one step up), and the Review shows each front's delivered handover. The distortion check no longer reads the bottom of a deep room null as speaker strain (one setup's front crossover had moved to 110 Hz). Setups outside these two groups keep the same filters and settings as 0.9.35 to the byte \u2014 re-run on your existing measurement if a crossover came out different from what you expected. The calibrate screen's bass line now shows the subwoofer trim the receiver shows.",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v2.0.0/GSonicEvo32-2.0.0.msi",
+ "sha256": "33ca5a9f52417e36ec9dfc7fc62b01bd9a75b761adb2d4689ed7c5f116536e45",
+ "size": 71228646
 }
