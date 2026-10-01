@@ -1,7 +1,7 @@
 {
-  "latest_version": "3.0.0",
-  "notes": "3.0.0: more accurate measurements - measure again after updating. Free update for all owners.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v3.0.0/GSonicImmersive-3.0.0-Setup.msi",
-  "sha256": "50c96080108247a4f34cc080971d78c38792c126dcbbc0dd860be6bdc5cf2d03",
-  "size": 71798784
+  "latest_version": "3.0.1",
+  "notes": "3.0.1: fixes for a few setups and more diagnostics - no need to measure again. Free update for all owners.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v3.0.1/GSonicImmersive-3.0.1-Setup.msi",
+  "sha256": "5f44d6e8d732c709d6e0979ca8bd18abea696b92ad35ce5eaa2ba9b57dfdad79",
+  "size": 71819264
 }
