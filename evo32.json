@@ -1,7 +1,7 @@
 {
- "latest_version": "2.0.1",
- "notes": "2.0.1 \u2014 calibration runs finish much sooner (about 55 to 60 percent less time on five test setups; computers with 8 or 16 GB of memory gain even more), with results identical to 2.0.0 to the byte \u2014 nothing to re-run. The Session screen shows the measurement folder's name and measured date and offers a newer measurement with one click; two notes are worded more precisely.",
- "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v2.0.1/GSonicEvo32-2.0.1.msi",
- "sha256": "36a1aed418c1392fcc5bd9627bb27fe78ca0273f12b8712eab4eb5c8509f77d1",
- "size": 71449830
+ "latest_version": "2.0.2",
+ "notes": "2.0.2 \u2014 the front speakers' filters are built exactly to their designed level and phase, and the bass search weighs more candidate alignments; re-run your calibration to get both.",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v2.0.2/GSonicEvo32-2.0.2.msi",
+ "sha256": "70bec7afb62331dec8ebcf60398498d40764dfd12586a955c0848f0752b9f48b",
+ "size": 71478502
 }
