@@ -1,7 +1,7 @@
 {
- "latest_version": "2.0.2",
- "notes": "2.0.2 \u2014 the front speakers' filters are built exactly to their designed level and phase, and the bass search weighs more candidate alignments; re-run your calibration to get both.",
- "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v2.0.2/GSonicEvo32-2.0.2.msi",
- "sha256": "70bec7afb62331dec8ebcf60398498d40764dfd12586a955c0848f0752b9f48b",
- "size": 71478502
+ "latest_version": "2.0.3",
+ "notes": "2.0.3 \u2014 the crossover-phase correction reads past a cancellation at the seat, the subwoofer roll-off reading keeps the measurement's own low end past a room dip, and a 40 Hz front crossover moves to 60 Hz when both readings agree; re-run your calibration to get them.",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v2.0.3/GSonicEvo32-2.0.3.msi",
+ "sha256": "374afab5351896b742918b03777b0e650108a48c312a78cc0f6733717ebc45c8",
+ "size": 71392486
 }
