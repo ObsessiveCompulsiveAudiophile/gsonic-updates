@@ -1,7 +1,7 @@
 {
-  "latest_version": "3.0.1",
-  "notes": "3.0.1: fixes for a few setups and more diagnostics - no need to measure again. Free update for all owners.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v3.0.1/GSonicImmersive-3.0.1-Setup.msi",
-  "sha256": "5f44d6e8d732c709d6e0979ca8bd18abea696b92ad35ce5eaa2ba9b57dfdad79",
+  "latest_version": "3.0.2",
+  "notes": "3.0.2: catches a wrong receiver sound mode, reminds you to run AVR Reset, Evo Lite/32 mode - no need to measure again. Free update for all owners.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v3.0.2/GSonicImmersive-3.0.2-Setup.msi",
+  "sha256": "c54fc021be2db34db9e38173d85782f0c31795d8d890f3cefad10010e7c2c091",
   "size": 71819264
 }
