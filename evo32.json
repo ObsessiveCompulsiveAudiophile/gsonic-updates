@@ -1,7 +1,7 @@
 {
- "latest_version": "2.0.3",
- "notes": "2.0.3 \u2014 the crossover-phase correction reads past a cancellation at the seat, the subwoofer roll-off reading keeps the measurement's own low end past a room dip, and a 40 Hz front crossover moves to 60 Hz when both readings agree; re-run your calibration to get them.",
- "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v2.0.3/GSonicEvo32-2.0.3.msi",
- "sha256": "374afab5351896b742918b03777b0e650108a48c312a78cc0f6733717ebc45c8",
- "size": 71392486
+ "latest_version": "2.0.4",
+ "notes": "2.0.4 \u2014 voices and lower mids follow your curve exactly; a speaker whose crossover-phase correction cannot be delivered keeps its earlier crossover and all-pass; GSonic Immersive 3.0.2 measurement folders recognised; the Target screen's room read explains a kept bass rise in plain words.",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v2.0.4/GSonicEvo32-2.0.4.msi",
+ "sha256": "45a98fb533e052508a1784cb509774f6e0213c52c4d0b83a41c1cccbebbdcde1",
+ "size": 71515366
 }
