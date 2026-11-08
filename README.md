@@ -9,8 +9,9 @@ contains no application code.
 |---|---|
 | GSonic Evo 32 | `evo32.json` |
 | GSonic Immersive | `immersive.json` |
+| GSonic Evo Lite | `lite.json` |
 
-Both manifests share one shape:
+All three manifests share one shape:
 
 ```json
 {
