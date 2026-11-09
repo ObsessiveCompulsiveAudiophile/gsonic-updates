@@ -1,7 +1,7 @@
 {
-  "latest_version": "3.0.2",
-  "notes": "3.0.2: catches a wrong receiver sound mode, reminds you to run AVR Reset, Evo Lite/32 mode - no need to measure again. Free update for all owners.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v3.0.2/GSonicImmersive-3.0.2-Setup.msi",
-  "sha256": "c54fc021be2db34db9e38173d85782f0c31795d8d890f3cefad10010e7c2c091",
-  "size": 71819264
+  "latest_version": "3.0.3",
+  "notes": "3.0.3: AVR-S760H guidance in AVR Reset, calmer handling of a dropped HDMI signal, a cleaner look - no need to measure again. Free update for all owners.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v3.0.3/GSonicImmersive-3.0.3-Setup.msi",
+  "sha256": "12d524ad94b82de7c8f1c91dbdd635615d4941afba9ddf5b5c842a7b04d6a0a1",
+  "size": 71852032
 }
