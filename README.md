@@ -36,3 +36,7 @@ customers, activated with the key from the original purchase.
 
 Manifest evolution is additive-only: fields are never renamed or removed —
 installed applications parse these files forever.
+
+## Guides
+
+- [GSonic Evo 32 — the Room Planner, a user guide](docs/ROOM_PLANNER_GUIDE.md)
