@@ -1,7 +1,7 @@
 {
- "latest_version": "1.0.1",
- "notes": "1.0.1 - better crossover choices: front speakers that carry a bass peak keep their own bass at or below 120 Hz where that reads as well, the center is not moved above 180 Hz for dialogue, and a calibration that leaves a bass peak at the main seat is made again from a better setting.",
- "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/lite-v1.0.1/GSonicEvoLite-1.0.1.msi",
- "sha256": "e49ee1bdcc356ac1d1c5437c14bf0e272f1ee05abf0d35635f11909a09ae1c64",
- "size": 73166257
+ "latest_version": "1.0.2",
+ "notes": "1.0.2 - fixes a calculation that stopped on speaker distances; no crossover above 180 Hz for speakers that can play lower; crossovers follow what the subwoofer can play; a single crossover setting that cannot be worked out no longer stops the calculation.",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/lite-v1.0.2/GSonicEvoLite-1.0.2.msi",
+ "sha256": "d8f5500d403193fdafb3cbb0a5b6fe39d391f374cee91402fa259703d721d870",
+ "size": 73219505
 }
