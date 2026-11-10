@@ -1,7 +1,7 @@
 {
- "latest_version": "1.0.0",
- "notes": "1.0.0 - the first release: the target curve made simple, another curve in minutes, the Help tab's five steps.",
- "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/lite-v1.0.0/GSonicEvoLite-1.0.0.msi",
- "sha256": "e38c23b0813e31c74ec0c35b7c39e56a0617f3148f68d94936407f39fe4d6d08",
- "size": 73137578
+ "latest_version": "1.0.1",
+ "notes": "1.0.1 - better crossover choices: front speakers that carry a bass peak keep their own bass at or below 120 Hz where that reads as well, the center is not moved above 180 Hz for dialogue, and a calibration that leaves a bass peak at the main seat is made again from a better setting.",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/lite-v1.0.1/GSonicEvoLite-1.0.1.msi",
+ "sha256": "e49ee1bdcc356ac1d1c5437c14bf0e272f1ee05abf0d35635f11909a09ae1c64",
+ "size": 73166257
 }
