@@ -1,6 +1,6 @@
 # GSonic Evo 32 — the Room Planner, a user guide
 
-*For GSonic Evo 32 2.1.0 and later. The Room Planner is an experimental tool: a model of your room, not a measurement.
+*For GSonic Evo 32 2.1.1 and later. The Room Planner is an experimental tool: a model of your room, not a measurement.
 Read its map as places worth trying; the calibration's own measurement decides.*
 
 ---
@@ -121,17 +121,24 @@ subwoofer's delay, polarity and level re-aligned around it — the map for subwo
 stands, as it should. *Find the best arrangement* moves all of them at once: every combination of the practical
 positions is tried with the subwoofers aligned — seconds for two subwoofers, minutes for three, and for four a quick
 pass over a coarser grid first, with a thorough search offered after it and its time estimate (measured on your own
-machine) shown before it starts. It can be stopped at any time and keeps what it found. The three best arrangements are
-listed with every subwoofer's settings, drawn on the plan as you hover over them, and applied with one click (*Use
+machine) shown before it starts. It can be stopped at any time and keeps what it found. The best arrangements — up to
+three, each a different one — are listed with every subwoofer's settings, drawn on the plan as you hover over them, and applied with one click (*Use
 it*). Two subwoofers are never placed within 0.9 m of each other.
 
-**What the score means.** The planner judges every spot twice: once at the damping that matches your room best, and
+**Keeping a subwoofer where it is.** If one subwoofer has only one possible place — built in, or the only spot the
+room allows — tick *keep here* beside it. *Find the best arrangement* then leaves it there and arranges the others
+around it; its delay and polarity (and its level, when the level may change) are still set with the rest. The search has fewer combinations to try, so it
+is also quicker. (*Find the best spot* does not move a kept subwoofer either — untick it first.)
+
+**What the score means.** The flatness figure is how far the bass strays from level across the band, in dB — lower
+is flatter. The planner judges every spot twice: once at the damping that matches your room best, and
 once at three times that decay, and ranks it by the worse of the two. A spot has to be good under both pictures of the
 room. Hovering a spot shows both numbers. Differences under about 1 dB between spots or arrangements are inside the
 model's own uncertainty — treat such spots as equals and pick the practical one.
 
 **Let the level change.** Ticked, the alignment may set each subwoofer's level as well as its delay and polarity
-(centred on the level that matches it to the fronts across the crossover). Unticked, the levels stay as typed.
+(centred on the level that matches it to the fronts across the crossover). Unticked, the levels stay as typed, in
+both searches.
 
 ## 6. The measurement check — how far to trust the map in your room
 
@@ -214,6 +221,13 @@ reads good, a sketch where it reads poor.
 
 **Can it place the centre or the surround speakers?** No. The other speakers are drawn for orientation only; the
 planner's physics is the subwoofers' and the fronts' bass.
+
+**Can I use it to place my front speakers?** Only as a rough look. The fronts are in the model, so the flatness
+figure moves when you drag them (lower is flatter) — but only the top of the scored band is theirs, and after a move
+the subwoofers are not re-aligned until you press *Auto-align* again. The cancellation from the wall behind or beside
+a speaker sits near 86 Hz divided by the distance to that wall in metres — 172 Hz at 0.5 m, 86 Hz at 1 m — which is
+at or above the top of the band the planner scores, and above the range where the model has been checked against
+measured rooms. For the fronts, a sweep at each candidate position decides.
 
 **Where should the seat go?** The planner answers for the subwoofers with the seat where you put it. You can move the
 seat and search again to compare seating positions by hand.
