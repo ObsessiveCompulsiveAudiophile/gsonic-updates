@@ -1,7 +1,7 @@
 {
- "latest_version": "2.1.0",
- "notes": "2.1.0 \u2014 a Room Planner for your subwoofers (experimental, independent of the calibration; finds the best arrangement of up to four); phase steering judged on the crossover's own band; optimized filter transfer order; a window that cannot start says why.",
- "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v2.1.0/GSonicEvo32-2.1.0.msi",
- "sha256": "dda534947441b21096676ca3f952675fe34e9ccb2e22cf71a4d353e26789bdf2",
- "size": 71732856
+ "latest_version": "2.1.1",
+ "notes": "2.1.1 \u2014 Room Planner: keep a subwoofer in place while the others are arranged, typed levels stay exactly as typed, every listed arrangement is a different one; optimized filter transfer order; every calibration result identical to 2.1.0.",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v2.1.1/GSonicEvo32-2.1.1.msi",
+ "sha256": "0775ff153998e43597b07677d4294c644337d92be90ced07c06d13703863b9c5",
+ "size": 71757432
 }
