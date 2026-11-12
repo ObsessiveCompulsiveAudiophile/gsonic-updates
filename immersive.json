@@ -1,7 +1,7 @@
 {
-  "latest_version": "3.0.4",
-  "notes": "3.0.4: pop-out log, a progress view with a speaker map, a window that fits your screen, safer AVR Reset - no need to measure again. Free update for all owners.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v3.0.4/GSonicImmersive-3.0.4-Setup.msi",
-  "sha256": "8444244cf46a72600a2a9701c7775ef80ea6cfe76eb7645ff7cf3ea83cd937c6",
-  "size": 71872512
+  "latest_version": "3.0.5",
+  "notes": "3.0.5: a live microphone meter and clearer clipping advice, plus 3.0.4's pop-out log and speaker map - no need to measure again. Free update for all owners.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v3.0.5/GSonicImmersive-3.0.5-Setup.msi",
+  "sha256": "706da5a614bb42ea0da096387743cbeb0e5b81d5b2a5c6eb34b267e7a5379b7d",
+  "size": 71888896
 }
