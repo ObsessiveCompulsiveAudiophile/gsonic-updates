@@ -1,7 +1,7 @@
 {
-  "latest_version": "3.0.3",
-  "notes": "3.0.3: AVR-S760H guidance in AVR Reset, calmer handling of a dropped HDMI signal, a cleaner look - no need to measure again. Free update for all owners.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v3.0.3/GSonicImmersive-3.0.3-Setup.msi",
-  "sha256": "12d524ad94b82de7c8f1c91dbdd635615d4941afba9ddf5b5c842a7b04d6a0a1",
-  "size": 71852032
+  "latest_version": "3.0.4",
+  "notes": "3.0.4: pop-out log, a progress view with a speaker map, a window that fits your screen, safer AVR Reset - no need to measure again. Free update for all owners.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v3.0.4/GSonicImmersive-3.0.4-Setup.msi",
+  "sha256": "8444244cf46a72600a2a9701c7775ef80ea6cfe76eb7645ff7cf3ea83cd937c6",
+  "size": 71872512
 }
