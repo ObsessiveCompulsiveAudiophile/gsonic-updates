@@ -1,7 +1,7 @@
 {
- "latest_version": "1.0.2",
- "notes": "1.0.2 - fixes a calculation that stopped on speaker distances; no crossover above 180 Hz for speakers that can play lower; crossovers follow what the subwoofer can play; a single crossover setting that cannot be worked out no longer stops the calculation.",
- "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/lite-v1.0.2/GSonicEvoLite-1.0.2.msi",
- "sha256": "d8f5500d403193fdafb3cbb0a5b6fe39d391f374cee91402fa259703d721d870",
- "size": 73219505
+ "latest_version": "1.0.4",
+ "notes": "1.0.4 - small front speakers get a front crossover that matches what they can play; a subwoofer measured too quietly is pointed out, with how far to turn it up; faster calculations on computers with many processor threads; clearer notes about distance settings on older receivers.",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/lite-v1.0.4/GSonicEvoLite-1.0.4.msi",
+ "sha256": "6f19cc522a97cf3271b1931fc946de1ad90fb54acc39c2887e15a2ccbd409bbb",
+ "size": 73092529
 }
