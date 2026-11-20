@@ -1,7 +1,7 @@
 {
-  "latest_version": "3.0.5",
-  "notes": "3.0.5: a live microphone meter and clearer clipping advice, plus 3.0.4's pop-out log and speaker map - no need to measure again. Free update for all owners.",
-  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v3.0.5/GSonicImmersive-3.0.5-Setup.msi",
-  "sha256": "706da5a614bb42ea0da096387743cbeb0e5b81d5b2a5c6eb34b267e7a5379b7d",
-  "size": 71888896
+  "latest_version": "3.0.6",
+  "notes": "3.0.6: fixes silent height sweeps on some older Denon receivers and shows the Evo mic positions on a sketch - no need to measure again. Free update for all owners.",
+  "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/gsi-v3.0.6/GSonicImmersive-3.0.6-Setup.msi",
+  "sha256": "0c76cb2a678e1d44b1e45c53aa958c03ab8efedaea7ec3ff489d37f9f7228bd5",
+  "size": 71892992
 }
