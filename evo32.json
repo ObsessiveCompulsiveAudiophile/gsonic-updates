@@ -1,7 +1,7 @@
 {
- "latest_version": "2.1.1",
- "notes": "2.1.1 \u2014 Room Planner: keep a subwoofer in place while the others are arranged, typed levels stay exactly as typed, every listed arrangement is a different one; optimized filter transfer order; every calibration result identical to 2.1.0.",
- "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v2.1.1/GSonicEvo32-2.1.1.msi",
- "sha256": "0775ff153998e43597b07677d4294c644337d92be90ced07c06d13703863b9c5",
- "size": 71757432
+ "latest_version": "2.1.2",
+ "notes": "2.1.2 \u2014 clearer dialogue: the center speaker works with the subwoofers and the front speakers (8 of our 21 reference setups change, in the center's filter or the Dialogue clarity curve); two or more subwoofers: the bass level's distortion margin counts each subwoofer at the level it plays; All-auto always makes the app's own calibration; the Review screen names each speaker's all-pass filter; every other calibration identical to 2.1.1.",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/v2.1.2/GSonicEvo32-2.1.2.msi",
+ "sha256": "787b08d0ed4b7af4eeef2597a77c86ae1f3e7aa8e012c1c09914bfc515a63f92",
+ "size": 71986808
 }
