@@ -1,7 +1,7 @@
 {
- "latest_version": "1.0.5",
- "notes": "1.0.5 - repeat calculations keep every crossover setting (or say which one could not be kept) and check the bass at your seat like a first calculation; your own target curve gets its bass as far as the subwoofer's own measurements allow; up-firing speakers cross over between 120 and 180 Hz; a safer Send screen.",
- "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/lite-v1.0.5/GSonicEvoLite-1.0.5.msi",
- "sha256": "9dee94ac7ff5f5b9daab91efcdf0ab36c1486b079aac282f330f945daa39aa85",
- "size": 73366961
+ "latest_version": "1.0.6",
+ "notes": "1.0.6 - clearer dialogue where the center speaker and the subwoofer meet (MultEQ XT receivers); the Flat curve now also times the subwoofer for a center speaker that is corrected in time.",
+ "download_url": "https://github.com/ObsessiveCompulsiveAudiophile/gsonic-updates/releases/download/lite-v1.0.6/GSonicEvoLite-1.0.6.msi",
+ "sha256": "78984010a34b74838520493a3b2cbfc333470ea94e23acbe30ff657729812ecc",
+ "size": 73448881
 }
